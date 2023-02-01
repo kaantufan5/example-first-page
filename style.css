@@ -1,0 +1,24 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+.ana-baslik-div {
+    text-align: center;
+    border: 1px solid black;
+    padding: 3rem;
+    margin-top: 10rem;
+}
+
+#hakkında {
+    padding-bottom: 2rem;
+}
+
+.sıralama {
+    padding-bottom: 0.5rem;
+}
+
+#son-sıralama {
+    padding-bottom: 1rem;
+}
